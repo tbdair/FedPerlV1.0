@@ -7,8 +7,6 @@ import numpy as np
 log_path = '/home/tariq/code/isic2019/N8logs/nyp_done/'
 
 
-# name ='FedMatchPolN8Avg'
-
 
 def plot_log():
     metric = []
