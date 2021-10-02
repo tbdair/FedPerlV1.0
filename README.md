@@ -21,7 +21,9 @@ The performance improvement is observed for all clients except client 8 due to t
 # FedPerl: Class level results
 FedPerl enhances the accuracy for BCC, BKL, DF, VASC, and SCC lesions by 16:6%, 21:8%, 50:4%, 42:0%, and 18:0%, respectively, in the SSL setting. The improvement reaches ten times in the DF class. 
 ![](images/cls_results.png)
+
 <\bn>
+
 If you found our code useful, please cite:
 ```
 @inproceedings{bdair2021fedperl,
