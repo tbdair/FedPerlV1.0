@@ -23,11 +23,13 @@ FedPerl enhances the accuracy for BCC, BKL, DF, VASC, and SCC lesions by 16:6%, 
 ![](images/cls_results.png)
 If you found our code useful, please cite:
 ```
-@article{bdair2021peer,
-  title={Peer Learning for Skin Lesion Classification},
+@inproceedings{bdair2021fedperl,
+  title={FedPerl: Semi-supervised Peer Learning for Skin Lesion Classification},
   author={Bdair, Tariq and Navab, Nassir and Albarqouni, Shadi},
-  journal={arXiv preprint arXiv:2103.03703},
-  year={2021}
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={336--346},
+  year={2021},
+  organization={Springer}
 }
 ```
 
